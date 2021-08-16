@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="crud-jdbc-lexbru" />
+        <module name="crud-jdbc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="crud-jdbc-lexbru" target="8" />
+      <module name="crud-jdbc" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

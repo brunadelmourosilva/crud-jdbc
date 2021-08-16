@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/crud-jdbc-lexbru.iml" filepath="$PROJECT_DIR$/crud-jdbc-lexbru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud-jdbc.iml" filepath="$PROJECT_DIR$/crud-jdbc.iml" />
     </modules>
   </component>
 </project>
