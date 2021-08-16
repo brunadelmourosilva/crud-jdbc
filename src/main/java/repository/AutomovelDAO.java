@@ -15,7 +15,7 @@ import java.util.List;
 @Log4j2
 public class AutomovelDAO {
 
-    //MODIFICAR
+
     public static List<Automovel> findAll(){
         return findByName("");
     }
